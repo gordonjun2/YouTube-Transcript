@@ -14,9 +14,6 @@ video_urls = ['https://www.youtube.com/watch?v=mO6twStYiCc',
 
 # Do not need to modify below
 
-def remove_non_ascii(string):
-    return ''.join(char for char in string if ord(char) < 128)
-
 transcripts_dir = './extracted_transcript'
 
 formatter = TextFormatter()

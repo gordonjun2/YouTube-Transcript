@@ -4,9 +4,18 @@ from youtube_transcript_api.formatters import TextFormatter
 import urllib.request
 import json
 import urllib
+import re
 
-video_urls = ['https://www.youtube.com/watch?v=eyCQrMuJpEk',
-            'https://www.youtube.com/watch?v=mO6twStYiCc']
+# To input
+
+video_urls = ['https://www.youtube.com/watch?v=mO6twStYiCc',
+              'https://www.youtube.com/watch?v=WS0d1Msaxgs',
+              'https://www.youtube.com/watch?v=ghkZwW5phFA']
+
+# Do not need to modify below
+
+def remove_non_ascii(string):
+    return ''.join(char for char in string if ord(char) < 128)
 
 transcripts_dir = './extracted_transcript'
 
@@ -34,7 +43,9 @@ for video_url in video_urls:
         response_text = response.read()
         data = json.loads(response_text.decode())
 
-    file_path = transcripts_dir + '/' + data['title'].replace(' ', '_') + '.txt'
+    filename = re.sub('[^A-z0-9 -]', '', data['title']).replace(" ", " ") + '.txt'
+
+    file_path = transcripts_dir + '/' + filename
 
     # Now we can write it out to a file.
     with open(file_path, 'w', encoding='utf-8') as txt_file:

@@ -1,0 +1,237 @@
+it's fair to say that overall 2022 has
+been a bad year for cryptocurrency but
+there are still some crypto projects
+that have done well it's the end of the
+year we're going to look back on those
+winners and celebrate them across a few
+different categories things like D5 nfts
+technology best ecosystem and we'll talk
+about why these projects could stand to
+do even better in 2023. here are the
+best six crypto projects of the year
+[Music]
+we're starting at number one with a look
+at best Partnerships and that goes to
+polygon AKA Matic and really it's hard
+to think of a lot of good that happened
+with the terrible year in 2022 that we
+had in the crypto industry across really
+the entire crypto Market but good things
+are still happening if you know where to
+look and you can get beyond the FTX
+bubble polygon is a great example that's
+why they've won our best Partnerships
+category and honestly this one's not
+even close more huge names from web 2
+and Legacy Industries are partnering
+with polygon to access web 3 benefits
+than any other crypto project take a
+look at this video if you've not already
+it was published recently but we're
+talking about huge names like Instagram
+Starbucks Nike Reddit Warner Music and
+others and no one like literally no one
+is bringing more web 3 access to more
+people than polygon these are the types
+of moves you want to see projects making
+if you're already invested in them or if
+you want to invest more in them so kudos
+to Matic on to video number two in just
+a moment just want to First remind you
+of what you already know this video and
+what I'm saying does not represent
+official Financial or investment advice
+we're looking next at best technology of
+the year and when it comes to Tech the
+truth is that the best is often
+subjective as soon as we move away from
+official stats like transactions per
+second or maybe speed to finality so
+this in some cases boils down to
+personal choice but as far as our choice
+for the best tech of 2022 it is no doubt
+ethereum now we have two main reasons
+why first of all they are still crushing
+and dominating both defy and nfts
+although polygon and Solana are gaining
+in nfts and BNB smart chain and arbitrum
+are gaining in defy but there is no
+question that ethereum is still the
+Undisputed leader in both of these
+important categories and secondly the
+merge I once heard someone describe the
+complexity of the merge by saying it's
+kind of like trying to repair a plane
+while you're still flying it and it was
+a pretty great analogy because eth had
+to maintain its fully functioning pow
+that's proof of work system for all the
+apps that run on it while testing
+implementing and really completing the
+merge all of this happening
+simultaneously it's a huge technical
+achievement no matter what you think of
+ethereum and it was great for once to
+get some good news out of a crypto
+project in the headlines instead of
+another centralized project implosion
+and by all accounts the merch was very
+successful you may or may not agree what
+do you think was the biggest positive
+story of the year if not the merge maybe
+something else let us know in the
+comments below the best ecosystem is our
+best category and it's hard to say
+enough good things about Cosmos here
+which is the winner for the best crypto
+ecosystem of the year we had a couple of
+other excellent candidates doing great
+things as well like polygon polka dot
+Avalanche for example but really Cosmos
+is hitting on all cylinders right now
+first of all its first big test this
+year was a surprise for almost everyone
+when Luna and UST imploded and the
+actual Luna blockchain during this high
+stress period performed beautifully
+because it did exactly what it was
+supposed to and the chain only halted
+when terralabs themselves halted the
+chain intentionally and for most of us
+that was the first time any Cosmos chain
+saw some serious scrutiny to see if
+their SDK and tenderman systems could
+withstand large-scale activity and it
+passed with flying colors so it's no
+surprise that former Terra protocol and
+former eth protocols like kujira and
+dydx decided it was time to make the
+switch to running their own chain and
+doing it of course on Cosmos Plus in
+addition their apps and Protocols are
+more seamless with others in their
+ecosystem than anywhere else all around
+it is just a pleasure to use best nfts
+non-fungible tokens casual viewer of the
+nft market may not know how big Solana
+is getting into nfts but Solana's
+biggest blue chip collection is D gods
+and they're our winner for the best nft
+of the year the current floor price is
+352 Saul or a little over five thousand
+dollars although its highest floor price
+was 585 saw in August the floor
+rebounded from a November low of 218 by
+a little over 50 percent to its current
+352 and really in a year where
+everything is down the floor for this
+great collection went on a steady
+increase from February to August and
+then like I mentioned a 50 rebound off
+its low that is better performance than
+almost any other investment or asset in
+crypto right now and so at least partly
+for its strength and resilience D Gods
+is our Top Choice if they are not your
+favorite nft collection let us know what
+is in the comments below next up we're
+looking at best defy and I don't think
+any D5 platform had a better year than
+our winner which is GMX because in a
+year where on average almost all
+projects are down 70 80 maybe more GMX
+really did defy the odds the GMX token
+is up 83 in the last 12 months and
+represents a decentralized exchange for
+spot and perpetuals trading in other
+words for those of you looking to trade
+these markets somewhere other than
+binance you now have a defy option right
+here it keeps these lows by working only
+in arbitrum and Avalanche and they also
+have an attractive index that you can
+buy called the glp index that holds
+eight coins in total these include
+Bitcoin ethereum chain link uni Swap and
+four stable coins including dye and frax
+and this is a great way to use a D5
+platform to get broad Market coverage
+along with trading they also have two
+coins in their ecosystem and both earn a
+piece of trading fees as well governance
+coin GMX gets 30 of the fees and you can
+stake for 13 while the liquidity coin
+glp earns 70 percent of the fees and you
+can state that for 19 to 21 here their
+analytics page can show us just how much
+important trading stats like volume open
+interest and fees how much these grew in
+the last year and this growth should
+continue at least in our estimation you
+can buy the GMX token on binance mexc
+global or uni Swap all right and finally
+just as a bit of a rotten banana entry
+here we're looking at SPF and FTX and
+really sadly between fbx between three
+arrows capital and Luna the reality is
+that we had a lot of choices this year
+for this particular category but FTX
+looks to be the biggest and worst of the
+year's disasters and blunders the only
+consolation is that at least SPF has
+been arrested while Zoo
+are unfortunately at least at the time
+of this recording they're still walking
+around as free individuals more evidence
+is coming to light that FTX and Alameda
+research were frauds from the very
+beginning and were selling Bitcoin they
+didn't even have while also co-mingling
+funds and Performing other illegal acts
+but as with any other crisis in
+cryptocurrency we can take away lessons
+from this mess
+first of all
+self-custody and this is vital even if
+it's not a hardware wallet yet if you
+have a wallet that you control the
+assets are real and they are yours
+lesson number two the blockchain never
+lies and some great on-chain analysis is
+ultimately what helped people see what
+FTX was doing and it kept it from
+getting worse by reporting it to the
+public centralized project scammers can
+scam people but they can't scam the
+blockchain it's always there as a
+transparent Ledger of activity and you
+should learn how to read block explorers
+to track this activity at least in a
+simple way to you so you can spot things
+that don't belong there and finally
+lesson number three the asset of Last
+Resort is Bitcoin what do we mean by
+this exactly well it means that when
+every scammer caches out their
+coins for something it is Bitcoin every
+single time it's not eth not Ada not
+whatever your favorite project is it is
+Bitcoin because even scammers know
+Bitcoin is the highest quality asset in
+crypto don't forget that and make sure
+that you hold at least some BTC
+unfortunately we have all been affected
+whether directly or indirectly by the
+FTX disaster and that's even if we never
+had accounts on FTX even if we never
+held an ftt token the good news is that
+we're going to move forward there are
+all these bright spots in the crypto
+industry that we've covered they're
+going to get even brighter in 2023 and
+Beyond we're going to make sure that we
+remember these lessons going forward so
+happy New Year members of the altcoin
+buzz Army wishing you all the best be
+safe out there and we'll see each other
+again in 2023

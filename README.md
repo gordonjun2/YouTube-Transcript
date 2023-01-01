@@ -1,5 +1,5 @@
 # YouTube-Transcript
-Uses [jdepoix / youtube-transcript-api'](https://github.com/jdepoix/youtube-transcript-api) to get YouTube videos' transcript and save them into a text file
+The repository uses [jdepoix / youtube-transcript-api'](https://github.com/jdepoix/youtube-transcript-api) to get YouTube videos' transcript and save them into a text file. One possible goal is to have ChatGPT summarise the extracted transcript.
 
 ## Installation
 - Clone the repository using
